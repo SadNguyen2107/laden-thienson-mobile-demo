@@ -9,3 +9,5 @@ To refresh the deployable page after editing the prototype, copy `../prototype/i
 This is a concept demo with illustrative product details. Its form is local-only and does not place real orders or collect data.
 
 The catalog includes a model/engine-code filter. Suggested values and product matches are illustrative until Thiên Sơn confirms its model-to-part compatibility data.
+
+Hướng 2 — lọc model bằng bảng trượt: https://sadnguyen2107.github.io/laden-thienson-mobile-demo/model-filter-sheet-preview.html
